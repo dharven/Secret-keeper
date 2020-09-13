@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sharedprefs</string>
+    <string name="enter_name">type here</string>
+    <string name="save">save</string>
+</resources>
